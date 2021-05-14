@@ -1,0 +1,34 @@
+#one {
+    position: absolute;
+    background-image: url("door.jpg");
+    width: 120px;
+    height: 90px;
+    left: 30px;
+}
+
+#two {
+    position: absolute;
+    background-image: url("door.jpg");
+    width: 120px;
+    height: 90px;
+    left: 150px;
+}
+
+#three {
+    position: absolute;
+    background-image: url("door.jpg");
+    width: 120px;
+    height: 90px;
+    left: 270px;
+}
+
+#result {
+    position: absolute;
+    margin-left: -5%;
+    width: 120px;
+    height: 50px;
+}
+
+#restart{
+    margin-left: 47%;
+}
